@@ -1,0 +1,13 @@
+c:\users\albert\documents\visual studio 2017\Projects\Exercise9\Exercise9\bin\Debug\Exercise9.exe.config
+c:\users\albert\documents\visual studio 2017\Projects\Exercise9\Exercise9\bin\Debug\Exercise9.exe
+c:\users\albert\documents\visual studio 2017\Projects\Exercise9\Exercise9\bin\Debug\Exercise9.pdb
+c:\users\albert\documents\visual studio 2017\Projects\Exercise9\Exercise9\obj\Debug\Exercise9.csprojResolveAssemblyReference.cache
+c:\users\albert\documents\visual studio 2017\Projects\Exercise9\Exercise9\obj\Debug\Exercise9.exe
+c:\users\albert\documents\visual studio 2017\Projects\Exercise9\Exercise9\obj\Debug\Exercise9.pdb
+C:\Users\Christian.Rivero\Desktop\Exercise9\Exercise9\Exercise9\bin\Debug\Exercise9.exe.config
+C:\Users\Christian.Rivero\Desktop\Exercise9\Exercise9\Exercise9\bin\Debug\Exercise9.exe
+C:\Users\Christian.Rivero\Desktop\Exercise9\Exercise9\Exercise9\bin\Debug\Exercise9.pdb
+C:\Users\Christian.Rivero\Desktop\Exercise9\Exercise9\Exercise9\obj\Debug\Exercise9.csproj.AssemblyReference.cache
+C:\Users\Christian.Rivero\Desktop\Exercise9\Exercise9\Exercise9\obj\Debug\Exercise9.csproj.CoreCompileInputs.cache
+C:\Users\Christian.Rivero\Desktop\Exercise9\Exercise9\Exercise9\obj\Debug\Exercise9.exe
+C:\Users\Christian.Rivero\Desktop\Exercise9\Exercise9\Exercise9\obj\Debug\Exercise9.pdb
