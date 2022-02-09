@@ -1,0 +1,2 @@
+# Introduction-to-C-Programming-and-Unity
+This course is all about where I started to learn how to develop video games using the C# programming language and the Unity game engine on Windows or Mac. Why use C# and Unity instead of some other language and game engine? Well, C# is a really good language for learning how to program and then programming professionally. C# is one of the programming languages you can use in the Unity environment.
